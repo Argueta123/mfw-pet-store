@@ -31,14 +31,26 @@ header h1 {
     color: #fff; 
 }
 
+
+
+/* Main Section */
+
 .btn-block {
-    color:#eeddcd;
+    background-color:#eeddcd;
 }
+
+.product {
+    background-color: #eeddcd;
+    /* margin:0.5px; */
+}
+
+/* End of Main Section */
 
 /* Footer */
 
 #footer {
     background-color:#EEDDCD;
+    margin-top: 5%;
 }
 
 /* End of Footer */
